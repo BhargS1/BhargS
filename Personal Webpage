@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bharg's Webpage</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+
+    <header>    
+      <h1>Bharg's Webpage</h1> <a href="https://www.youtube.com/@vrajvihar1">
+      <img src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" width = 150px; style="float: right;"> </a>
+    </header>
+
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="About.html">About</a>
+      <a href="Contact.html">Contact</a>
+    </nav>
+
+    <main>
+      <h2>Welcome to Bharg's webpage!</h2>
+      <section>
+      <p>This is a space where I share a bit about myself and my interests.</p>
+    </section> 
+    </main>
+
+    <footer>
+      &copy; 2023 Bharg's Webpage. All rights reserved.
+    </footer>
+    
+
+  </body>
+</html>
